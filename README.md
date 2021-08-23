@@ -1,6 +1,6 @@
 # Jenkins installation with Dockerfile
 
-1. Run: docker build -t image_name .
+1. Run: **docker build -t *image_name* .**
 2. Build new network:
 **docker network create *network_name***
 3. Run container for Jenkins network:
